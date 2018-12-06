@@ -1,2 +1,2 @@
 # My CV
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) [![Github all releases](https://img.shields.io/github/downloads/ice2038/cv/total.svg)](https://GitHub.com/ice2038/cv/releases/)
+[![GitHub release](https://img.shields.io/github/release/ice2038/cv.svg)](https://GitHub.com/ice2038/cv/releases/) [![Github all releases](https://img.shields.io/github/downloads/ice2038/cv/total.svg)](https://GitHub.com/ice2038/cv/releases/)
